@@ -1,0 +1,11 @@
+{
+
+    "calculator" : {
+
+        "app_name": "Calculator",
+        "app_description": "A simple calculator app",
+        "file_name" : "calculator.apk"
+
+    }
+
+}

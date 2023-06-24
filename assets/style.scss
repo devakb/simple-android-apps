@@ -1,0 +1,28 @@
+h6{
+    text-transform: uppercase;
+    font-size: .8rem;
+    font-weight: 500;
+}
+
+h4{
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+p{
+    font-size: .8rem;
+    line-height: 1.5;
+}
+
+
+.sm-apps-card{
+    img.card-img{
+        width: 128px;
+        height: 128px;
+    }
+}
+
+.rounded-full{
+    border-radius: 50px;
+}
